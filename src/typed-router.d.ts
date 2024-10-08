@@ -28,5 +28,6 @@ declare module 'vue-router/auto-routes' {
     '/nested/menu2/menu2-1': RouteRecordInfo<'/nested/menu2/menu2-1', '/nested/menu2/menu2-1', Record<never, never>, Record<never, never>>,
     '/nested/menu2/menu2-2': RouteRecordInfo<'/nested/menu2/menu2-2', '/nested/menu2/menu2-2', Record<never, never>, Record<never, never>>,
     '/table': RouteRecordInfo<'/table', '/table', Record<never, never>, Record<never, never>>,
+    '/test': RouteRecordInfo<'/test', '/test', Record<never, never>, Record<never, never>>,
   }
 }

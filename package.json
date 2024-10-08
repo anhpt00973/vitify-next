@@ -3,7 +3,7 @@
   "type": "module",
   "packageManager": "pnpm@9.11.0",
   "scripts": {
-    "dev": "vite --open --host",
+    "dev": "vite --open --host --port 5176",
     "build": "vite build",
     "preview": "vite preview --config vite.config.preview.ts",
     "test:unit": "vitest",
